@@ -1,3 +1,4 @@
+![Prompt Engineering for High School Workshop](./images/PromptEngr4HS_Workshop.png)
 # Prompt Engineering for High School
 **Learning to Question AI, Not Just Use It**
 
